@@ -1,5 +1,6 @@
 ### Hi there 👋
-##NexaSphere Organization
+###NexaSphere Organization
+
 🌐 Welcome to Nexasphere – where innovation converges with blockchain technology and cutting-edge web3.0 solutions!
 
 🚀 We're a forward-thinking tech collective dedicated to pioneering developments in blockchain-based platforms, decentralized applications (dApps), and transformative web3.0 solutions.
