@@ -1,5 +1,4 @@
-### Hi there 👋
-###NexaSphere Organization
+### Hi there we are  NexaSphere Organization👋
 
 🌐 Welcome to Nexasphere – where innovation converges with blockchain technology and cutting-edge web3.0 solutions!
 
